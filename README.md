@@ -1,4 +1,4 @@
-# aws-cross-account-cicd-git-actions-prereq - HBJ Version
+# aws-cross-account-cicd-git-actions-prereq - HBJ Version 2 
 
 ## This project is prerequisite to [aws-cross-account-cicd-git-actions](https://github.com/awslabs/aws-cross-account-cicd-git-actions). It is to be deployed via CDK (Typescript).
 
